@@ -23,7 +23,7 @@ section
     place-items: center;
     color: #ffffff;
     text-align: center;
-    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)) ,url(../img/free-photo-of-empty-yard-in-traditional-sand-houses-in-desert-landscape.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)) ,url(./img/free-photo-of-empty-yard-in-traditional-sand-houses-in-desert-landscape.jpeg);
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-attachment:fixed;
